@@ -1,6 +1,6 @@
 # **LBS Practice Repository**
 # **Project Title**
-LBS Practice – Git Branching Assignment
+LBS Practice – Git Branching Assignment test
 
 # **Project Description**
 This repository is created as part of the Git & GitHub Assignment to demonstrate the use of 
